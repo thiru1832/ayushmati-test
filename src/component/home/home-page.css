@@ -1,0 +1,28 @@
+.homediv {
+    background-color: #DAF1FF;
+    height: 100vh;
+    display: flex;
+}
+
+.innerdiv1{
+    height: 100vh;
+    flex: 2;
+    justify-content: center;
+    display: flex; 
+    flex-direction: column; 
+    padding-left: 5vh; 
+}
+
+.innerdiv2{
+    flex: 1;
+}
+
+#nurseImage {
+    height: 100vh;
+    object-fit: contain
+    
+}
+
+.text1 .text2 {
+    display: inline-block;
+}

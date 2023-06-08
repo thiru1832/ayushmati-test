@@ -1,0 +1,21 @@
+.patient-reg-outer-div{
+    background-color: #DAF1FF;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.patient-reg-inner-div{
+    margin: 50px;
+    padding: 30px;
+    width: 80%;
+    background-color:white;
+    border-radius: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.patient-reg-details-div{
+    width: 100%;
+}

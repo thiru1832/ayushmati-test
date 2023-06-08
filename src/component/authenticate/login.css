@@ -1,0 +1,56 @@
+.login-outer-div{
+    background-color: #DAF1FF;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.MuiTextField-root{
+    width: 60ch;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control{
+    padding: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-control-password{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+
+.login-inner-div{
+    padding: 50px;
+    background-color:white;
+    border-radius: 60px;
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} 
+
+.signup-link{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: small;
+    color: #323d43;
+}
+
+.login-text{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #27a2ee;
+    font:inherit;
+    font-size: 30px;
+}
+

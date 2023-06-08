@@ -1,0 +1,18 @@
+.status-admitted {
+    background-color: #7EDD6F;
+    min-width: 100px;
+    min-height: 25px;
+    border-radius: 0%;
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+
+.status-discharged {
+    background-color: #DF4040;
+    min-width: 100px;
+    min-height: 25px;
+    border-radius: 0%;
+    padding-left: 25px;
+    padding-top: 5px;
+}

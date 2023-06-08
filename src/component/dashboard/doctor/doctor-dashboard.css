@@ -1,0 +1,26 @@
+.reception-table-outer-div{
+    background-color: #DAF1FF;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    
+}
+.reception-table-inner-div{
+    width: 90%;
+    border-radius: 600px;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 0px 0px 0 rgba(0, 0, 0, 0.19);
+}
+
+.admitted-status-div {
+    background-color: #7EDD6F;
+    border-radius: 0%;
+    padding: 15px;
+}
+
+.discharged-status-div {
+    background-color: #dd7f6f;
+    border-radius: 0%;
+    padding: 15px;
+}
